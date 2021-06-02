@@ -12,4 +12,15 @@ First we need to build our image with Dockerfile:
   
 
 Then we need to run our image:
+1. Run docker-compose up -d
+  
+  
+That was! Now you have build your server-side website in a container using Docker. 
+  
+  
+  
+The Dockerfile has all esentials drivers for php like SQL Server, LDAP etc..
+  
+  
+  Feel free to make edits and give me some requests so we can make it better :)
 
